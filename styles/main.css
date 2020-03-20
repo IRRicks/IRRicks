@@ -1,5 +1,5 @@
  header {
-   background: url(../images/john-fowler-aaIN3y2zcMQ-unsplash.jpg) center / cover;
+   background: url(../images/humberto-chavez-InrNz281-S8-unsplash.jpg) center / cover;
    height: 60vh;
    justify-content: center;
    text-align: center;
@@ -12,7 +12,7 @@ h1 {
 
 .slogan {
   font-weight: lighter;
-  color: hsla(0,0%,100%,0.7)
+  color: hsla(0,0%,100%,0.7);
   font-size: 1.6rem;
 }
 
